@@ -1,0 +1,76 @@
+header {
+  display: flex;
+}
+nav {
+  display: flex;
+  margin-left: 30%;
+}
+nav ul {
+  display: flex;
+}
+nav ul li a {
+  margin-left: 50px;
+  text-decoration: none;
+  list-style-type: none;
+}
+#logo {
+  height: 200px;
+  width: 100px;
+}
+.title > h1 {
+  text-align: center;
+}
+
+.row1 {
+  display: flex;
+}
+.row2 {
+  display: flex;
+}
+.row3 {
+  display: flex;
+}
+
+.col1 {
+  margin: 10px;
+}
+.row1 {
+  text-align: center;
+  justify-content: center;
+}
+
+.row2 {
+  text-align: center;
+  justify-content: center;
+}
+.row2 {
+  margin: 10px;
+}
+.row2 {
+  display: flex;
+}
+.row3 {
+  display: flex;
+}
+button a {
+  text-decoration: none;
+}
+.download1 > button > a {
+  text-decoration: none;
+}
+.col1 > button {
+  height: 50px;
+  width: 75px;
+}
+.download2 > button > a {
+  text-decoration: none;
+}
+button a {
+  text-align: center;
+}
+img:hover {
+  border: 5px solid green;
+}
+img {
+  border-radius: 5px;
+}
